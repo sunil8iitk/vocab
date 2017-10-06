@@ -16,4 +16,9 @@ Before 06-Oct-17
 			
 			Usage :- 1. I upcycled my stained curtains into table sheets.
 					 2. Arijit Singh upscaled "Tu meri GirlFriend" to a new level.
+					 
+	occlude = obstruct
+	
+			Usage :- 1. The sun's light occludes the light coming from the earth to observers
+						at distant galaxies.
 			
