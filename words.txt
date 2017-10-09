@@ -11,14 +11,28 @@ Before 06-Oct-17
 
 	
 06-Oct-17 : Friday
-	upcycle = to process a product in a way that it becomes better than
+	1.upcycle = to process a product in a way that it becomes better than
 			  the original.
 			
 			Usage :- 1. I upcycled my stained curtains into table sheets.
 					 2. Arijit Singh upscaled "Tu meri GirlFriend" to a new level.
 					 
-	occlude = obstruct
+	2.occlude = obstruct
 	
 			Usage :- 1. The sun's light occludes the light coming from the earth to observers
 						at distant galaxies.
+						
+		
+09-Oct-17 : Monday
+	1.plethora = large amount of
+			Usage :- The plethora of information in the internet.
+	
+	2.parity = state of being equal.
+			Usage :- Manuel Nauer is on parity with Ronaldo
+		
+	3.panache = showmanship
+			Usage :- Leo's character in Django Unchained is full of panache.
+			
+	4.commute = reduce, travel
+			Usage:- Supreme court commuted the initial sentence.
 			
