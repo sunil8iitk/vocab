@@ -35,4 +35,14 @@ Before 06-Oct-17
 			
 	4.commute = reduce, travel
 			Usage:- Supreme court commuted the initial sentence.
-			
+	
+	5.parley = conference between disputing parties.
+			Usage :- The parley in the movie `The last of the Mohicans`.
+		
+	6.beckon = make a gesture telling someone to follow.
+			Usage : Magua's beckoning in `The last of the Mohicans`.
+
+
+10-Oct-17 : Tuesday 
+	1.smirk = smile in an irritating way 
+			Usage : My friend gave me a smirk when I came back to office after having a smoke.
