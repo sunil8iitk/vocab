@@ -4,10 +4,21 @@
 
 Before 06-Oct-17
 	1.Ubiquitous   = found everywhere
+			Usage :- Nowadays android is ubiquiutous.
+
+
 	2.Vitiate      = reduce the efficency
+			Usage :- Insomnia vitiates the productivity of any living being.
+
 	3.Subtle	   = making use of clever means to achieve something
-	4.Nontheless   = in spite of 
-	5.Nevertheless = in spite of 
+			Usage :- Vipur made a subtle username that was fancying the customer her was handling.
+
+	4.Nontheless   = in spite of
+			Usage :- India is a country of great heritage, Nontheless its sociology is pested
+						with its caste system.
+
+	5.Nevertheless = in spite of
+			Usage :- The 16 Batallion in Ceaser's army fought bravely, nevertheless they suffered huge 			 	losses in Germania. 
 
 	
 06-Oct-17 : Friday
