@@ -66,3 +66,6 @@ Before 06-Oct-17
 12-Oct-17 : Thursday 
 	1. belligerent = hostile and aggressive.
 			Usage : It takes two to tango, said Pak army chief of belligerent India.
+
+	2. myriad = a large number of
+			Usage: When a Java program is running, a myriad of objects are create.
