@@ -79,3 +79,11 @@ Before 06-Oct-17
 	2. refrain = stop oneself from doing something.
 			Usage : Please refrain from using the LAN port at Mayuresh's desk.
 					It is being used by Dipika.
+
+14-Oct-17 : Monday
+	1. respite = a short rest from something hard
+			Usage : Messi gave Neuer a respite for the last 10 mins of the game.
+
+	2. impeccable = in accordance with the highest standards.
+			Usage : Arjun Reddy has an impeccable record of everything while in 
+					his stay at St.Mary's.
