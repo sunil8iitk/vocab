@@ -3,87 +3,116 @@
 
 
 Before 06-Oct-17
+
 	1.Ubiquitous   = found everywhere
-			Usage :- Nowadays android is ubiquiutous.
+			Usage :- Nowadays android is ubiquitous.
 
 
 	2.Vitiate      = reduce the efficency
 			Usage :- Insomnia vitiates the productivity of any living being.
 
+
 	3.Subtle	   = making use of clever means to achieve something
 			Usage :- Vipur made a subtle username that was fancying the customer he was handling.
+
 
 	4.Nontheless   = in spite of
 			Usage :- India is a country of great heritage, Nontheless its sociology is pested
 						with its caste system.
+
 
 	5.Nevertheless = in spite of
 			Usage :- The 16 Batallion in Ceaser's army fought bravely, nevertheless they suffered huge 			 	losses in Germania. 
 
 	
 06-Oct-17 : Friday
-	1.upcycle = to process a product in a way that it becomes better than
-			  the original.
+
+	1.Upcycle = to process a product in a way that it becomes better than
+			    the original.
 			
 			Usage :- 1. I upcycled my stained curtains into table sheets.
 					 2. Arijit Singh upscaled "Tu meri GirlFriend" to a new level.
 					 
-	2.occlude = obstruct
+	2.Occlude = obstruct
 	
 			Usage :- 1. The sun's light occludes the light coming from the earth to observers
 						at distant galaxies.
 						
 		
 09-Oct-17 : Monday
-	1.plethora = large amount of
-			Usage :- The plethora of information in the internet.
+
+	1.Plethora = large amount of
+			Usage :- The plethora of information on the internet.
 	
-	2.parity = state of being equal.
+
+	2.Parity = state of being equal.
 			Usage :- Manuel Nauer is on parity with Ronaldo
 		
-	3.panache = showmanship
+
+	3.Panache = showmanship
 			Usage :- Leo's character in Django Unchained is a panache.
 			
-	4.commute = reduce, travel
+
+	4.Commute = reduce, travel
 			Usage:- Supreme court commuted the initial sentence to the juvenile in 
 					the infamous Delhi Rape case.
 	
-	5.parley = conference between disputing parties.
+
+	5.Parley = conference between disputing parties.
 			Usage :- The parley in the movie `The last of the Mohicans`.
 		
-	6.beckon = make a gesture telling someone to follow.
+
+	6.Beckon = make a gesture telling someone to follow.
 			Usage : Magua's beckoning in `The last of the Mohicans`.
 
 
 10-Oct-17 : Tuesday 
-	1.smirk = smile in an irritating way 
+	
+	1.Smirk = smile in an irritating way 
 			Usage : My friend gave me a smirk when I came back to office after having a smoke.
 
 
 11-Oct-17 : Wednesday
-	1. implore = beg someone ernestly
+
+	1. Implore = beg someone ernestly
 			Usage : Amitabh Bachan implored Yash Chopra to hire him in a movie in his seeding days.
 
-12-Oct-17 : Thursday 
-	1. belligerent = hostile and aggressive.
-			Usage : It takes two to tango, said Pak army chief of belligerent India.
 
-	2. myriad = a large number of
+12-Oct-17 : Thursday 
+
+	1. Belligerent = hostile and aggressive.
+			Usage : It takes two to tango, said Pak army chief of a belligerent India.
+
+	2. Myriad = a large number of
 			Usage : When a Java program is running, a myriad of objects are created.
 
+
 13-Oct-17 : Friday
-	1. pragmatic = dealing with things in a practical way rather than theoretical
+
+	1. Pragmatic = dealing with things in a practical way rather than theoretical
 			Usage : Ajay was interviewing the candidate in a pragmatic way 
 					which I've learnt to do rather than doing it the bookish way. 
 
-	2. refrain = stop oneself from doing something.
+	2. Refrain = stop oneself from doing something.
 			Usage : Please refrain from using the LAN port at Mayuresh's desk.
 					It is being used by Dipika.
 
 14-Oct-17 : Monday
-	1. respite = a short rest from something hard
+	
+	1. Respite = a short rest from something hard
 			Usage : Messi gave Neuer a respite for the last 10 mins of the game.
 
-	2. impeccable = in accordance with the highest standards.
+	2. Impeccable = in accordance with the highest standards.
 			Usage : Arjun Reddy has an impeccable record of everything while in 
 					his stay at St.Mary's.
+
+
+15-Oct-17 : Thursday
+	1.Antithetical = mutually incompatible
+		Usage : Trump admnistration's antithetical decision to toughen renewal of H1B 
+				visas in spite of Sushma Swaraj's diplomatic talks proves how 
+				deep of a cut have the Indians made on the US job market. 
+
+	2.Reprimand : scold
+		Usage : The boos reprimanded the dishwasher for dropping a pile of plates
+				in front of the other kitchen personnel.
