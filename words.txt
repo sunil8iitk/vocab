@@ -116,3 +116,8 @@ Before 06-Oct-17
 	2.Reprimand : scold
 		Usage : The boos reprimanded the dishwasher for dropping a pile of plates
 				in front of the other kitchen personnel.
+
+31-Oct-17 : Tuesday
+	1.cinch = extremely easy
+		Usage : Whatsapp introducing the new in chat payment gateway makes payments 
+				a cinch.
