@@ -137,3 +137,9 @@ Before 06-Oct-17
 09-Nov-17 : Thursday
 	1.Pillage = loot with violence in times of War.
 		Usage : The pillage by the mayan invaders in the movie Apocalypto.
+	2.Inanimate = non living
+		Usage = Ralph Phiennes dialogue in "In Bruges : You are an inanimate fucking object."
+	3.Superlative = of highest degree
+		Usage = Mia Khalifa's superlative stardom all around the world.
+	4.Corroboration = evidence that confirms the theory.
+		Usage = The CBI took the juvenile suspect to the investigative quarters for corroboration.
