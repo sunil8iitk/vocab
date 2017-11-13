@@ -22,7 +22,7 @@ Before 06-Oct-17
 
 
 	5.Nevertheless = in spite of
-			Usage :- The 16 Batallion in Ceaser's army fought bravely, nevertheless they suffered huge 			 	losses in Germania. 
+			Usage :- The 16th Batallion in Ceaser's army fought bravely, nevertheless they suffered huge 			 	losses in Germania. 
 
 	
 06-Oct-17 : Friday
@@ -50,7 +50,7 @@ Before 06-Oct-17
 		
 
 	3.Panache = showmanship
-			Usage :- Leo's character in Django Unchained is a panache.
+			Usage :- Leo's character in Django Unchained is one of panache.
 			
 
 	4.Commute = reduce, travel
@@ -114,7 +114,7 @@ Before 06-Oct-17
 				deep of a cut have the Indians made on the US job market. 
 
 	2.Reprimand : scold
-		Usage : The boos reprimanded the dishwasher for dropping a pile of plates
+		Usage : The boss reprimanded the dishwasher for dropping a pile of plates
 				in front of the other kitchen personnel.
 
 31-Oct-17 : Tuesday
@@ -147,3 +147,5 @@ Before 06-Oct-17
 13-Nov-17 : Monday 
 	1.tepid = showing little enthusiasm
 		Usage : Reliance communications q2 earnings invoked tepid reactions from the investors.
+	2.stubble = short hairs on a man's face when he has not shaved for a while.
+		Usage : She ran her fingers over his cheeks of stubble.
