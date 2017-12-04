@@ -36,7 +36,7 @@ Before 06-Oct-17
 	2.Occlude = obstruct
 	
 			Usage :- 1. The sun's light occludes the light coming from the earth to observers
-						at distant galaxies.
+						 at distant galaxies.
 						
 		
 09-Oct-17 : Monday
@@ -46,7 +46,7 @@ Before 06-Oct-17
 	
 
 	2.Parity = state of being equal.
-			Usage :- Manuel Nauer is on parity with Ronaldo
+			Usage :- Manuel Nauer is on parity with Messi.
 		
 
 	3.Panache = showmanship
@@ -55,7 +55,7 @@ Before 06-Oct-17
 
 	4.Commute = reduce, travel
 			Usage:- Supreme court commuted the initial sentence to the juvenile in 
-					the infamous Delhi Rape case.
+					 the infamous Delhi Rape case.
 	
 
 	5.Parley = conference between disputing parties.
@@ -91,11 +91,11 @@ Before 06-Oct-17
 
 	1. Pragmatic = dealing with things in a practical way rather than theoretical
 			Usage : Ajay was interviewing the candidate in a pragmatic way 
-					which I've learnt to do rather than doing it the bookish way. 
+					 which I've learnt to do rather than doing it the bookish way. 
 
 	2. Refrain = stop oneself from doing something.
 			Usage : Please refrain from using the LAN port at Mayuresh's desk.
-					It is being used by Dipika.
+					 It is being used by Dipika.
 
 14-Oct-17 : Monday
 	
@@ -103,24 +103,24 @@ Before 06-Oct-17
 			Usage : Messi gave Neuer a respite for the last 10 mins of the game.
 
 	2. Impeccable = in accordance with the highest standards.
-			Usage : Arjun Reddy has an impeccable record of everything while in 
-					his stay at St.Mary's.
+			Usage : Arjun Reddy has an impeccable record in everything while in 
+					 his stay at St.Mary's.
 
 
 15-Oct-17 : Thursday
 	1.Antithetical = mutually incompatible
 		Usage : Trump admnistration's antithetical decision to toughen renewal of H1B 
-				visas in spite of Sushma Swaraj's diplomatic talks proves how 
-				deep of a cut have the Indians made on the US job market. 
+				 visas in spite of Sushma Swaraj's diplomatic talks proves how 
+				  deep of a cut have the Indians made on the US job market. 
 
 	2.Reprimand : scold
 		Usage : The boss reprimanded the dishwasher for dropping a pile of plates
-				in front of the other kitchen personnel.
+				 in front of the other kitchen personnel.
 
 31-Oct-17 : Tuesday
 	1.cinch = extremely easy
-		Usage : Whatsapp introducing the new in chat payment gateway makes payments 
-				a cinch.
+		Usage : Whatsapp introducing the new in-chat payment gateway makes payments 
+				 a cinch.
 
 
 02-Nov-17 : Thursday
@@ -137,30 +137,37 @@ Before 06-Oct-17
 09-Nov-17 : Thursday
 	1.Pillage = loot with violence in times of War.
 		Usage : The pillage by the mayan invaders in the movie Apocalypto.
+
 	2.Inanimate = non living
 		Usage = Ralph Phiennes dialogue in "In Bruges : You are an inanimate fucking object."
+
 	3.Superlative = of highest degree
 		Usage = Mia Khalifa's superlative stardom all around the world.
+
 	4.Corroboration = evidence that confirms the theory.
 		Usage = The CBI took the juvenile suspect to the investigative quarters for corroboration.
 
 13-Nov-17 : Monday 
-	1.tepid = showing little enthusiasm
+	1.Tepid = showing little enthusiasm
 		Usage : Reliance communications q2 earnings invoked tepid reactions from the investors.
-	2.stubble = short hairs on a man's face when he has not shaved for a while.
-		Usage : She ran her fingers over his cheeks of stubble.
+
+	2.Stubble = short hairs on a man's face when he has not shaved for a while.
+		Usage : She ran her fingers over his cheeks full of stubble.
 
 14-Nov-17 : Tuesday
 	1.Competent = having the skill or ability to do a thing sucessfully.
 		Usage : Why incompetent people think they are amazing.
+
 	2. Scurrilous = making scandalous claims with the intention of damaging one's reputation.
 		Usage : Charges against Chief Justice of India are scurrilous : SC bench.
 
 15-Nov-17 : Wednesday
 	1.Pare = trim by cutting away its outer edges.
-		Usage : Bharti Airtel off loads 3k in Bharti infratel crore to pare its debt. 
+		Usage : Bharti Airtel off loads 3k crore in Bharti infratel to pare its debt. 
+
 	2.Bicker = argue about petty and trivial matters.
 		Usage : Marriage is all about bickering.
+
 	3.Embattled = involved in war
 		Usage : Same sex marriage result in Australia is good news for embattled Turnbull.
 
@@ -171,3 +178,7 @@ Before 06-Oct-17
 04-Dec-17 : Monday
 	1.Recluse : a person living a solitary life
 		Usage : Daniel Craig will be playing a recluse in the 2017 movie 'Kings'.
+
+	2.Contingency : a circumstance that is expected but not with sureity.
+		Usgae : FBI put tabs on Borat. So, Sacha Baron Cohen had some contingency 
+				 plans for them.
