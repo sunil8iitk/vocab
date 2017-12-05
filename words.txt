@@ -201,3 +201,6 @@ Before 06-Oct-17
 
 	4.Impoverish : make a person poor.
 		Usage : An Impoverished Yemen.
+
+	4.Impromptu : not practised or rehearsed.
+		Usage: The impromptu example of the wormhole by David Gyasi in Interstellar.
