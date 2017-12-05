@@ -172,35 +172,66 @@ Before 06-Oct-17
 		Usage : Same sex marriage result in Australia is good news for embattled Turnbull.
 
 28-Nov-17 : Tuesday
-	1.Repression : taking something by force
+	1.Repression = taking something by force
 		Usage : Was Che Gu Vara a revolutionary icon or a force of repression.
 
 04-Dec-17 : Monday
-	1.Recluse : a person living a solitary life
+	1.Recluse = a person living a solitary life
 		Usage : Daniel Craig will be playing a recluse in the 2017 movie 'Kings'.
 
-	2.Contingency : a circumstance that is expected but not with sureity.
+	2.Contingency = a circumstance that is expected but not with sureity.
 		Usgae : FBI put tabs on Borat. So, Sacha Baron Cohen had some contingency 
 				 plans for them.
 
-	3.Trivia : details, considerations that need to be taken into account 
+	3.Trivia = details, considerations that need to be taken into account 
 			    although of little importance.
 		Usage : The Big Data lecture had had a lot of trivia to offer.
 
 05-Dec-17 : Tuesday
-	1.epiphany : a moment of sudden and great realization or revelation.
+	1.epiphany = a moment of sudden and great realization or revelation.
 		Usage : Neo in The Matrix had an epiphany that the Matrix is'nt real 
 				 and that it is just a simulation.
 
-	2.Voracious : devouring or wanting great quantities of food.
+	2.Voracious = devouring or wanting great quantities of food.
 		Usage : The Tiger Shark in the Pacific Islands are known to be 
 				 voracious.
 
-	3.Ferociously : in a savagely fierce manner.
+	3.Ferociously = in a savagely fierce manner.
 		Usage : Yemen is facing a ferociously fast spreading Cholera outbreak. 
 
-	4.Impoverish : make a person poor.
+	4.Impoverish = make a person poor.
 		Usage : An Impoverished Yemen.
 
-	4.Impromptu : not practised or rehearsed.
+	5.Impromptu = not practised or rehearsed.
 		Usage: The impromptu example of the wormhole by David Gyasi in Interstellar.
+
+	6.Imbue = inspire
+		Usage : The Principal's speech was imbuing.
+
+	7.Communion = the sharing of intimate thoughts and feelings at an intellectual and 
+					sprititual level.
+		Usage : It was the communion of the 3 mother boxes that re-bore the mother
+				 of Steppenwolf.
+
+	8.Plausible = reasonable.
+		Usage : The actual ending of the Justice League sounds plausible rather.
+
+	9.Posit = put forward as an argument.
+		Usage : Joss Wedon has posited the vision points he had for the Justice League 
+				 to Warner Bros. 
+
+	10.Exemplify = explain with an example.
+		Usage : The concepts of Relativity have been exemplified 
+				 in the movie Interstellar.
+
+	11.Tangible = felt by touch.
+		Usage : The tangible effect of gravity on space and time.
+
+	12.Battering = striking repeatedly with hard blows.
+		Usage : A Battering Gattuso.
+
+	13.Languid = not willing to put much physical effort.
+		Usage : A languid Pirlo.
+
+	14.Pantomime = Entertainment consisting of jokes, songs etc for children.
+		Usage : Gattuso was one of Football's Pantomime villains. 
