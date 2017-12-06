@@ -235,3 +235,7 @@ Before 06-Oct-17
 
 	14.Pantomime = Entertainment consisting of jokes, songs etc for children.
 		Usage : Gattuso was one of Football's Pantomime villains. 
+
+06-Dec-17 : Wednesday 
+	1.Insolvent : unable to pay debts.
+		Usage : An insolvent Vijay Malya.
