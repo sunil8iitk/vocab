@@ -239,3 +239,11 @@ Before 06-Oct-17
 06-Dec-17 : Wednesday 
 	1.Insolvent : unable to pay debts.
 		Usage : An insolvent Vijay Malya.
+
+	2.Retrospectively : with consideration of past events.
+		Usage : Medical Reports were retrospectively reviewed on 120 patients.
+
+07-Dec-17 : Thursday 
+	1.Brevity : exact use of words in speech or writing, shortness of time
+		Usage : I have left out the getters and setters in the POJO because
+				 of brevity.
