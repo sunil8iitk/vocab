@@ -269,6 +269,27 @@ Before 06-Oct-17
 	1.Bonhomie : Extreme friendliness
 		Usage : KTR's new bonhomie - Chandra Babu Naidu
 
-	2.Exhort : Urge or encourage to do something
+	2.Exhort  : Urge or encourage to do something
 		Usage : R.Krishnayya exhorted the BC community to hit the 
 				streets against the Kapu Quota.
+
+	3.Misnomer : Wrong designation
+		Usage  : Ronaldo's fifth BallonDor is not a misnomer of his current status at Real Madrid.
+
+	4.Prolific : Present in large numbers
+		Usage  : Ronaldo currently is not a prolific scorer he used to be. 
+
+16-Dec-17 : Saturday
+	1.Autism : Difficulty in communicating with others. A condition form early childhood.
+		Usage : Taare Zameen per, autism.
+
+18-Dec-17 : Monday
+	1.Fiduciary : Involving trust between a beneficiary and trustee.
+		Usage : Vani Kola's fiduciary relations with the board of Snapdeal.  
+
+	2.Cascade : Chain reaction kind of effect, or that of a waterfall.
+		Usage : Team leads whose reportees do not have the access to lotus notes
+				should cascade this email.
+
+	3.Ligature : a rope or a tie that is used to bind things tightly
+		Usage : The billionare couple from Toronto died of ligature neck compression.
