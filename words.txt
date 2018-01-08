@@ -316,3 +316,6 @@ Before 06-Oct-17
 
 	2.Assail : make a violent attack on
 		Usage : Trump assails 'Fake Book' allegations while allies flood with praises. 
+
+	3.Concerted : jointly arranged or carried out.
+		Usage : Trump made a concerted attack on his book critiques.
