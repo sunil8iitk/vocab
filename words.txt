@@ -356,3 +356,10 @@ Before 06Oct17
 31-Jan-18 = Wednesday
 	1.Chuck = throw away carelessly
 		Usage = Govt chucks the idea of 2 colors for passports.
+
+	2.Cringe = bend one's head or body in fear or apprehension.
+		Usage = Everyone cringes at the occurence of an exception in Java.
+
+02-Feb-18 = Thursday
+	1.Peagentry = an elaborate display or ceremony
+		Usage = The German Nationalist Art Exhibition opened amid much peagentry.
