@@ -572,37 +572,37 @@ Before 06-Oct-17
 			It takes decades to build systems, and BJP has destroyed some on filmsygrounds.
 
 	19-Jun-18 = Tuesday
-		1.Misnomer = a wrong designation
+		1.Misnomer = A wrong designation
 			Stanford's android library jar's SimpleActivity is actullay a misnomer of Android Activity.
 
-		2.Anagrams = words formed by re-arranging the comprising aphabet.
+		2.Anagrams = Words formed by re-arranging the comprising Aphabet.
 					(spar,rasp)
 			What if two strings are anagrams ? Algorithm !!!
 
 	30-Jun-18 = Saturday
-		1.Addendum = an additional note at the end of the book.
+		1.Addendum = Additional note at the end of the book.
 			TM Krishna's addendum in the ad of Kodaicanal says treat us like Whites.
 
 
 	30-Jun-18 = Saturday
-		1.Replicant = a genetically engineered human being.
+		1.Replicant = A genetically engineered human being.
 			Usage = Replicants in Blade Runner 2049.
 
 
 	23-Jul-18 = Monday
-		1.Expound = explain the meaning of.
+		1.Expound = Explain the meaning of.
 			Usage = The Parivrajakas asked what the middle path was and let him
 					expound it to them.
 
 	25-Jul-18 = Wednesday
-		1.Retinue = a group of advisers, assistants accompanying an important person.
+		1.Retinue = A group of advisers, assistants accompanying an important person.
 			Usage = Yashas, the son of a rich person in the city of Benares in times of Buddha
 					had a big retinue a large harem and passed time in carnal pleasures.
 
-		2.Carnal = bodily, flesh
+		2.Carnal = Bodily, flesh
 			Usage = Yashas lived a life full of carnal pleasures.
 
-		3.Wend = go in a specified direction usually slowly.
+		3.Wend = Go in a specified direction usually slowly.
 			Usage = Yashas, questioning if there were a better life than the one he is leading,
 					decided to leave his father's home and wended towards Isipathana.
 
